@@ -1,2 +1,2 @@
 # lang-html-css
-HTML/CSS шаблони
+HTML та CSS шаблони.
